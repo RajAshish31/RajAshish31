@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Raj
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Statistics
+- 👀 I’m interested in Data Science and Data Analytics as I want to become a Data Scientist.
+- 🌱 I’m currently studying Statistics.
 - 💞️ I’m currently pursuing my Masters in the International University of Applied Sciences.
 - 📫 How to reach me: My LinkedIn profile: https://www.linkedin.com/in/ashish-raj-2703we/
 - My Email ID: raj.ashish1997@gmail.com
