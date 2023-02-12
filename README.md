@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RajAshish31
+- 👋 Hi, I’m Ashish Raj
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Statistics
 - 💞️ I’m currently pursuing my Masters in the International University of Applied Sciences.
