@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Ashish Raj
 - 👀 I’m interested in Data Science and Data Analytics as I want to become a Data Scientist.
 - 🌱 I’m currently studying Statistics.
+- 🤝 I’m looking for help with Jobs in Data Analytics and Data Science
+- 👯 I’m looking to collaborate on Data Analytics and Data Science projects
 - 💞️ I’m currently pursuing my Masters in the International University of Applied Sciences.
 - 📫 How to reach me: My LinkedIn profile: https://www.linkedin.com/in/rajashish27/
 - My Email ID: raj.ashish1997@gmail.com
@@ -9,10 +11,6 @@
 RajAshish31/RajAshish31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 💫 About Me:
-🔭 I’m currently working on Statistics in my Masters of Science<br>👯 I’m looking to collaborate on Data Analytics and Data Science projects<br>🤝 I’m looking for help with Jobs in Data Analytics and Data Science<br>🌱 I’m currently learning Statistics and Pursuing my M.Sc in Data Science
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajashish27) 
 
