@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashish Raj
-- 👀 I’m interested in Data Science and Data Analytics as I want to become a Data Scientist.
+- 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently studying Statistics.
 - 🤝 I’m looking for help with Jobs in Data Analytics.
 - 👯 I’m looking to collaborate on Data Analytics PROJECTS.
