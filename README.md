@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently studying Statistics.
 - 🤝 I’m looking for help with Jobs in Data Analytics.
-- 👯 I’m looking to collaborate on Data Analytics PROJECTS.
+- 👯 I’m looking to collaborate on Data Analytics projects.
 - 💞️ I’m currently pursuing my Masters at the International University of Applied Sciences.
 - 📫 How to reach me: My LinkedIn profile: https://www.linkedin.com/in/rajashish27/
 - My Email ID: raj.ashish1997@gmail.com
