@@ -1,29 +1,44 @@
-- 👋 Hi, I’m Ashish Raj
-- 👀 I’m interested in Data Analytics.
-- 🤝 I’m looking for help with Jobs in Data Analytics.
-- 👯 I’m looking to collaborate on Data Analytics projects.
-- 💞️ I’m currently pursuing my M.Sc at the International University of Applied Sciences.
-- 📫 How to reach me: My LinkedIn profile: https://www.linkedin.com/in/rajashish27/
-- My Email ID: raj.ashish1997@gmail.com
+# Hi there, I'm Ashish Raj 👋
 
-<!---
-RajAshish31/RajAshish31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajashish27) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RajAshish31&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RajAshish31&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajAshish31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm an experienced **Business Analyst** with a passion for data-driven insights and optimizing business processes. My work has focused on leveraging data analytics to enhance operational efficiency and drive growth. I'm currently expanding my skills into **Project Management Office (PMO)** practices to manage projects strategically and align them with business goals.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RajAshish31&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🌱 Currently learning **PMO best practices**, **Python**, and **SQL** for enhanced data analysis.
+- 🔭 I was recently a **Business Analyst at Cloudstrats**, contributing to AI and multi-cloud projects, as well as driving the documentation and reporting of key initiatives.
+- 💡 I’m passionate about **AI**, **blockchain**, and **multi-cloud infrastructure**.
+- 🎯 Looking forward to contributing to projects that merge technology with strategic execution.
 
----
-[![](https://visitcount.itsvg.in/api?id=RajAshish31&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🛠️ Skills
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Languages**: Python, SQL
+- **Data Tools**: Power BI, Excel, Tableau, Data Visualization
+- **Project Tools**: Jira, Confluence, Microsoft Office
+- **Cloud**: Experience with multi-cloud infrastructure (AWS, GCP, Azure)
+- **DevOps**: Familiar with DevOps practices and tools
+- **Interpersonal**: Leadership, Communication, Problem-Solving, Adaptability
+
+## 👷‍♂️ Projects
+
+- **Mobile App Functionality Demonstration**  
+  Tested and showcased the ABHA Taxi Driver and Customer apps, highlighting the core features such as login, booking workflow, and UI improvements.
+
+- **Goa Population Data Collection Form**  
+  Designed and implemented a form for demographic and socio-economic data collection, helping local governments make data-driven decisions.
+
+- **AI-Driven Multi-Cloud Management Platform**  
+  Led the documentation and reporting for an AI-driven platform aimed at optimizing cloud infrastructure for large enterprises.
+
+- **HR Data Analysis**  
+  Cleaned and analyzed HR datasets using Python to help inform decision-making processes.
+
+## 📈 GitHub Stats
+
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajAshish31&show_icons=true&theme=radical)](https://github.com/RajAshish31)
+
+## 🔗 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/rajashish27)
+- [GitHub](https://github.com/RajAshish31)
+- [Linktree](https://linktr.ee/ashish_raj1)
+
